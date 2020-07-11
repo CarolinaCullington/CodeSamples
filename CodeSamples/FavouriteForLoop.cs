@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace CodeSamples
 {
-    class Program
+    class FavouriteForLoop
     {
         /*
          *  This little snippet recreates a lab task I did in the first term in the first year of my CS degree way back in 2003.
