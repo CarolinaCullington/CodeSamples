@@ -7,7 +7,7 @@ namespace CodeSamples
     class Program
     {
         /*
-         *  This little snipped recreates a lab task I did in the first term in the first year of my CS degree.
+         *  This little snippet recreates a lab task I did in the first term in the first year of my CS degree way back in 2003.
          *  
          *  Asked during a lab session to take a string and output the number of letters present in a string. People were 
          *  frantically typing if statements to check for each letter of the alphabet, both upper and lower case. I sat there 
